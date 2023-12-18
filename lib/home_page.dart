@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:sample/bloc/counter_bloc.dart';
-import 'package:sample/cubit/counter_cubit.dart';
 import 'package:sample/inc_dec_page.dart';
 
 class MyHomePage extends StatelessWidget {
